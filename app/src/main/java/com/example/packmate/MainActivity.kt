@@ -84,7 +84,6 @@ fun Greeting(modifier: Modifier = Modifier) {
         }
     }
 
-    // UI
     Column(
         modifier = modifier.fillMaxSize(),
         verticalArrangement = Arrangement.Center,
